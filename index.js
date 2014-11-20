@@ -1,6 +1,6 @@
 
 /**
- * @module Shit
+ * @module SomeSimpleStuff
  * @author Chzz
  */
 
@@ -23,6 +23,7 @@ export function simpleLimit(soundList) {
   }
 }
 
+/* Stupid */
 export function simpleMasta(soundList) {
   return function(time) {
     if (soundList.length === 0) {
